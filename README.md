@@ -8,7 +8,7 @@ The root folder contains the main files index.html and style.css. to edit them, 
 The img folder contains all the images used on my site. 
 The Slick folder contains the slider used in the Feedback block. 
 For the site to work correctly, you need to download all the files from this repository, after which you can make your own edits to the code.
----
+
 Languages used:
 - HTML
 - CSS
